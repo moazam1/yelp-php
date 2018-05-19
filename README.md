@@ -14,7 +14,7 @@ A PHP client for authenticating with Yelp using OAuth and consuming the API.
 Via Composer
 
 ``` bash
-$ composer require stevenmaguire/yelp-php
+$ composer require moazam1/yelp-php
 ```
 
 ## Usage
